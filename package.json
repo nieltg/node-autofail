@@ -1,6 +1,6 @@
 {
   "name": "autofail",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Run specified command and exit gracefully",
   "repository": "https://github.com/nieltg/node-autofail",
   "author": "nieltg",
