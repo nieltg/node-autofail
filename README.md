@@ -1,5 +1,8 @@
 # autofail
 
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![npm](https://img.shields.io/npm/v/autofail/latest.svg)](https://www.npmjs.com/package/autofail)
+
 Run specified command and exit gracefully.
 
 ```
